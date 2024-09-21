@@ -6,8 +6,7 @@ Este script permite ao usuário identificar e marcar as coordenadas de um ponto 
 Ao clicar na imagem exibida, um círculo vermelho é desenhado na área do clique e as coordenadas do hotspot são impressas no terminal.  
 Este script é útil para determinar a localização exata de interação em imagens, o que pode ser aplicável em várias áreas, como design de interfaces e desenvolvimento de jogos.  
 
-Autor: Rafael A. Nunes  
-Data de Criação: 2023-10-01  
+Autor: Rafael A. Nunes (rafa.nunes2018@hotmail.com) 2024   
 
 Requisitos:  
  - Python 3 ou superior instalado.  
