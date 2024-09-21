@@ -7,8 +7,7 @@ O usuário pode especificar o caminho da imagem, as coordenadas do hotspot do cu
 o nome do arquivo de saída do cursor e o tamanho desejado do cursor.
 O script cria arquivos temporários e os remove após a criação do cursor x11, garantindo uma operação limpa.
 
-Autor: Rafael A. Nunes 
-Data de Criação: 2023-10-01  
+Autor: Rafael A. Nunes (rafa.nunes2018@hotmail.com) 2024 
 
 # Funciona em Linux Mint 22; não foi testado em outros sistemas.  
 
