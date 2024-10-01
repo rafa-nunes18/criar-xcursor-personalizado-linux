@@ -82,6 +82,11 @@ Cria um cursor e o salva no caminho especificado, utilizando o nome padrão de "
 
 Cria um cursor da imagem, usando (10, 10) como hotspot, e salva como "nome_cursor.cursor" no diretório especificado.  
 
+## Problemas
+
+O uso deste código deve ser feito com cautela. Qualquer defeito ou erro resultante da execução deste código não será de minha responsabilidade, mas sim de quem o executar. Entenda completamente o código antes de utilizá-lo.
+
+Se encontrar algum problema usando a versão do Linux por mim testado, entre em contato e vamos tentar resolver juntos.
 
 Rafael A. Nunes ( rafa.nunes2018@hotmail.com ) 2024
 
