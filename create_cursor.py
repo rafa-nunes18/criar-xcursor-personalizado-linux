@@ -32,7 +32,7 @@ arquivos temporários:
 - Arquivo de cursor (.cursor).
 
 Observações: 
- - Se não sabe onde fica o hotspot da sua imagem, use o script "identifica_hotspot.py" para descobrir.
+ - Se não sabe onde fica o hotspot da sua imagem, use o script "identificar_hotspot.py" para descobrir.
  - Em "output-name", o local de saída por padrao é o mesmo diretório do script, como opção, pode colocar apenas o caminho onde o cursor padrao será gerado,
    ou pode especificar o caminho absoluto com nome onde será salvo o novo cursor. 
 
