@@ -39,19 +39,19 @@ Para ser usando no sistema Linux.
 
   - Comando para criar cursor:
 
-    python3 create_cursor.py <image_path> <hotspot-x> <hotspot-y> [<output-name>] [<size>]  
+    python3 create_cursor.py "image_path" "hotspot-x" "hotspot-y" "output-name" "size"  
 
     Argumentos:
 
-  - `<image_path>`: Caminho para a imagem PNG que será usada para criar o cursor. Pode ser um caminho absoluto ou relativo.
+      - image_path: Caminho para a imagem PNG que será usada para criar o cursor. Pode ser um caminho absoluto ou relativo.
      
-  - `<hotspot-x>`: Coordenada X do ponto de hotspot do cursor (o ponto dentro da imagem que indica onde a interação ocorre, em pixels).
+      - hotspot-x: Coordenada X do ponto de hotspot do cursor (o ponto dentro da imagem que indica onde a interação ocorre, em pixels).
      
-  - `<hotspot-y>`: Coordenada Y do ponto de hotspot do cursor (semelhante ao hotspot X, mas na direção vertical).
+      - hotspot-y: Coordenada Y do ponto de hotspot do cursor (semelhante ao hotspot X, mas na direção vertical).
      
-  - `[<output-name>]`: (Opcional) Nome do arquivo de saída para o cursor. Se não for especificado, o nome padrão será "xcursor".
+      - output-name: (Opcional) Nome do arquivo de saída para o cursor. Se não for especificado, o nome padrão será "xcursor".
      
-  - `[<size>]`: (Opcional) Tamanho do cursor em pixels. Se não for fornecido, o tamanho padrão será 25 pixels.  
+      - size: (Opcional) Tamanho do cursor em pixels. Se não for fornecido, o tamanho padrão será 25 pixels.  
 
 Obs: Se não sabe onde fica o hotspot da sua imagem, use o script "identificar_hotspot.py" para descobrir.
 
