@@ -63,7 +63,7 @@ Cria um cursor a partir da imagem com o caminho especificado, usando as coordena
 
 3. python3 create_cursor.py mycursor.png 10 10
    
-* Para utilizar argumentos de caminho relativo, basta colocar a imagem PNG junto do mesmo diretório deste script.*
+** Para utilizar argumentos de caminho relativo, basta colocar a imagem PNG junto do mesmo diretório deste script. **
 Cria um cursor da imagem "mycursor.png", usando (10, 10) como hotspot, com o nome padrão e tamanho padrão.  
 
 5. python3 create_cursor.py mycursor.png 10 10 nome_cursor  
