@@ -80,4 +80,5 @@ Cria um cursor da imagem, usando (10, 10) como hotspot, e salva como "nome_curso
 
 
 Rafael A. Nunes ( rafa.nunes2018@hotmail.com ) 2024
+
 Instagram: @rafa33alves
