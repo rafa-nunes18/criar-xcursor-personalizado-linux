@@ -3,7 +3,9 @@
 Este script através do xcursorgen cria um cursor x11 a partir de uma imagem PNG já editada (transparência).
 Para ser usando no sistema Linux.
 
-# Funciona em Linux Mint 22; não foi testado em outros sistemas.  
+## testado em 
+
+Linux Mint 22, não foi testado em outros sistemas.  
 
 ## Requisitos do sistema
 
@@ -12,6 +14,7 @@ Para ser usando no sistema Linux.
       Você pode instalar essas bibliotecas usando o gerenciador de pacotes de sua distribuição Linux.
 
       sudo apt-get install libx11-dev libxcursor-dev libxrender-dev libxft-dev libcairo2-dev
+    
  - xcursorgen.
 
     O xcursorgen está incluído no pacote x11-utils. Use o comando:
@@ -31,6 +34,7 @@ Para ser usando no sistema Linux.
     pip install Pillow  
 
 ## Instrunções
+
   - Baixe o arquivo "create_cursor.py".
   
   - Abra o terminal e navegue para o diretório específico com o arquivo.
