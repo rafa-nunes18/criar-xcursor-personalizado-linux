@@ -59,6 +59,8 @@ Linux Mint 22, não foi testado em outros sistemas.
 
 Obs: Se não sabe onde fica o hotspot da sua imagem, use o script "identificar_hotspot.py" para descobrir.
 
+![screenshot1](indentificar.gif)
+
 ## Exemplos de uso:
 
 1. python3 create_cursor.py /caminho/para/imagem/mycursor.png 10 10
