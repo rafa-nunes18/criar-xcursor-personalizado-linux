@@ -1,18 +1,17 @@
 """  
-identify_hotspot.py  
+Autor: Rafael A. Nunes (rafa.nunes2018@hotmail.com) 2024  
 
 Descrição:  
-Este script permite ao usuário identificar e marcar as coordenadas de um ponto de hotspot em uma imagem usando a biblioteca OpenCV.  
+Este script permite ao usuário identificar e marcar as coordenadas de um ponto de hotspot em uma imagem png usando a biblioteca OpenCV.  
 Ao clicar na imagem exibida, um círculo vermelho é desenhado na área do clique e as coordenadas do hotspot são impressas no terminal.  
-Este script é útil para determinar a localização exata de interação em imagens, o que pode ser aplicável em várias áreas, como design de interfaces e desenvolvimento de jogos.  
-
-Autor: Rafael A. Nunes (rafa.nunes2018@hotmail.com) 2024   
+Este script é útil para determinar a localização exata de interação em imagens, o que pode ser aplicável em várias áreas, como design de interfaces e desenvolvimento de jogos.   
 
 Requisitos:  
  - Python 3 ou superior instalado.  
- - Biblioteca OpenCV instalada. Para instalar, use o seguinte comando:  
+ - Biblioteca OpenCV.
+   Para instalar, use o seguinte comando: 
    
-    pip install opencv-python  
+   pip install opencv-python  
 
 Uso:  
  - executar o script  
